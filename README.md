@@ -9,6 +9,6 @@ https://youtube.com/shorts/IHufzKHEpP0?feature=share
 * TechXR Cube - https://amzn.eu/cG1h8xl
 * TechXR SDK
 
-### Packages
+### Packages Required
 * AR Foundation
 * AR Core
